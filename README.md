@@ -10,6 +10,7 @@ O DigiBank é uma solução inovadora que busca modernizar a experiência bancá
 - Metodologia
     - [Trello]()
 - Banco de Dados
+    - [brModelo]()
     - [SQL Server](https://learn.microsoft.com/pt-br/shows/azure-developers/what-is-sql-server-sql-tips-for-developers-0101)
 - Back-End
     - [Java](https://www.java.com/pt-BR/)
