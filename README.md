@@ -20,5 +20,10 @@ O DigiBank é uma solução inovadora que busca modernizar a experiência bancá
     - [Angular](https://angular.dev/)
 
 ## Características 	
-Função basica da aplicação:
+- Função basica da aplicação:
+- Acesso (Cadastro e Login)
+- Gerenciamento de Contas Bancárias
+- Transações Bancárias
+- Consulta de Saldos e Extratos
+- Aplicações Financeiras
 
