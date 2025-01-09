@@ -7,7 +7,7 @@
 O DigiBank é uma solução inovadora que busca modernizar a experiência bancária por meio de uma plataforma online completa. Ele oferece funcionalidades essenciais, como login seguro, gerenciamento de contas por administradores e realização de transações, incluindo depósitos, saques, transferências, Pix e pagamentos de boletos. Além disso, possibilita consultas detalhadas de saldos e extratos em tempo real. O sistema é projetado para garantir segurança e usabilidade, com bloqueio de contas após tentativas de acesso falhas e criptografia de senhas.
 
 ## Tecnologias
-- Metodologia
+- Organização
     - [Trello]()
 - Banco de Dados
     - [brModelo]()
