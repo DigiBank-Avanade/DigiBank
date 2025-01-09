@@ -11,5 +11,3 @@ O DigiBank é uma solução inovadora que busca modernizar a experiência bancá
 - [Angular](https://angular.dev/)
 - [Java](https://www.java.com/pt-BR/)
 - [Spring Boot](https://spring.io/projects/spring-boot)
-- [Visual Studio Code](https://code.visualstudio.com)
-- [Eclipse](https://www.eclipse.org/)
