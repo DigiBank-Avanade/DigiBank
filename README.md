@@ -8,6 +8,8 @@ O DigiBank é uma solução inovadora que busca modernizar a experiência bancá
 
 ## Tecnologias
 - [SQL Server](https://learn.microsoft.com/pt-br/shows/azure-developers/what-is-sql-server-sql-tips-for-developers-0101)
-- [Angular](https://angular.dev/)
 - [Java](https://www.java.com/pt-BR/)
 - [Spring Boot](https://spring.io/projects/spring-boot)
+- [Angular](https://angular.dev/)
+
+  
