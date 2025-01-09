@@ -37,8 +37,8 @@ O DigiBank é uma solução inovadora que busca modernizar a experiência bancá
 - Consulta de Saldos e Extratos
 - Aplicações Financeiras
 
-## Devs
+## Desenvolvedores
 - [Fernanda Tomita Manchon]()
-- ndreza Lionardo Caldeira]()
+- [Andreza Lionardo Caldeira]()
 - [Jose Messias]()
 
