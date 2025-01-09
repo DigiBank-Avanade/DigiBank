@@ -3,5 +3,13 @@
   </br>
 </h1>
 
- <!-- <h2 align="center">Projeto FinTECH – Banco Digital</h2> -->
+## Sobre
+O DigiBank é uma solução inovadora que busca modernizar a experiência bancária por meio de uma plataforma online completa. Ele oferece funcionalidades essenciais, como login seguro, gerenciamento de contas por administradores e realização de transações, incluindo depósitos, saques, transferências, Pix e pagamentos de boletos. Além disso, possibilita consultas detalhadas de saldos e extratos em tempo real. O sistema é projetado para garantir segurança e usabilidade, com bloqueio de contas após tentativas de acesso falhas e criptografia de senhas.
 
+## Tecnologias
+- [SQL Server](https://learn.microsoft.com/pt-br/shows/azure-developers/what-is-sql-server-sql-tips-for-developers-0101)
+- [Angular](https://angular.dev/)
+- [Java](https://www.java.com/pt-BR/)
+- [Spring Boot](https://spring.io/projects/spring-boot)
+- [Visual Studio Code](https://code.visualstudio.com)
+- [Eclipse](https://www.eclipse.org/)
